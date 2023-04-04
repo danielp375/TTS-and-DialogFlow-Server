@@ -1,0 +1,8 @@
+#coquiTTS
+pip install TTS
+#Flask
+pip install flask
+#Google-Cloud-Dialogflow
+pip install google-cloud-dialogflow
+#Google Api
+pip install google.api_core
